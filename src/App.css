@@ -1,0 +1,21 @@
+.App {
+
+}
+
+.App-Header {
+  background-color: #444;
+  padding: 10px 20px;
+  color: white;
+}
+
+.App-Header h2 {
+  margin: 0;
+}
+
+.App-Body {
+  margin: 0 20px;
+}
+
+.App-Control-FindAround, .App-Control-Select {
+  margin: 15px 0;
+}
